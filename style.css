@@ -48,7 +48,7 @@ body{
 }
 
 .hero-img{
-    height: 70vh;
+    height: 65vh;
     width: 100%;
 }
 
@@ -134,7 +134,7 @@ footer{
 .foot ul {
     display: flex;
     justify-content: center;
-    font-size: 1.5rem;
+    font-size: 1.0rem;
    
 }
 .cont{
