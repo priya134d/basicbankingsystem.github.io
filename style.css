@@ -48,7 +48,7 @@ body{
 }
 
 .hero-img{
-    height: 75vh;
+    height: 70vh;
     width: 100%;
 }
 
@@ -135,16 +135,16 @@ footer{
     display: flex;
     justify-content: center;
     font-size: 1.5rem;
-    padding: 2rem;
+   
 }
 .cont{
     display: flex;
 
 }
-.foot ul li{
+/*.foot ul li{
     padding-left: 3.0rem;
     padding-right: 3.0rem;
-}
+}*/
 .foot p{
   display: flex;
   justify-content: center;
